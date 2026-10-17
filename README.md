@@ -1,3 +1,5 @@
+## From the Before Times
+
 | Topic | Repositories |
 | :--- | :--- |
 | **Word Play** | <ul><li>["this sentence contains"](https://github.com/railsagainstignorance/this-sentence-contains) — Self-referential pangram solver</li><li>[nangenmo](https://github.com/railsagainstignorance/nangenmo) — Word generation experiment</li></ul> |
@@ -5,16 +7,3 @@
 | **Hardware Projects** | <ul><li>[BlinkyTape on RaspberryPI](https://github.com/railsagainstignorance/blinkytape)</li></ul> |
 | **Software Projects** | <ul><li>[chromatography](https://github.com/railsagainstignorance/chromatography)</li></ul> |
 | **Advent of Code** | (... not all public)<br><ul><li>[2024](https://github.com/railsagainstignorance/advent-of-code-2024)</li></ul> |
-
-## Hardware Projects
-
-* [BlinkyTape on RaspberryPI](https://github.com/railsagainstignorance/blinkytape)
-
-## Software Projects
-
-* [chromatography](https://github.com/railsagainstignorance/chromatography)
-
-## Advent of Code
-
-(... not all public)
-* [2024](https://github.com/railsagainstignorance/advent-of-code-2024)
