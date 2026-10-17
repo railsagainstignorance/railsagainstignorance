@@ -1,4 +1,4 @@
-| Word Play | <ul><li>["this sentence contains"](https://github.com/railsagainstignorance/this-sentence-contains)</li><li>[nangenmo](https://github.com/railsagainstignorance/nano-nanogenmo)</li></ul> |
+| **Word Play** | <ul><li>["this sentence contains"](https://github.com/railsagainstignorance/this-sentence-contains) — Self-referential pangram solver</li><li>[nangenmo](https://github.com/railsagainstignorance/nangenmo) — Word generation experiment</li></ul> |
 
 ## Experiments: Conway's Game of Life
 
