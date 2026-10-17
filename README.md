@@ -1,16 +1,23 @@
-## Hi there 👋
+## Word Play
 
-<!--
-**railsagainstignorance/railsagainstignorance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ["this sentence contains"](https://github.com/railsagainstignorance/this-sentence-contains)
+* [nangenmo](https://github.com/railsagainstignorance/nano-nanogenmo)
 
-Here are some ideas to get you started:
+## Experiments: Conway's Game of Life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [using GPUJS](https://github.com/railsagainstignorance/gpujs-experiment-conways-game-of-life)
+* [using Shader](https://github.com/railsagainstignorance/ConwayShader)
+* [using webgl](https://github.com/railsagainstignorance/webgl-game-of-life)
+
+## Hardware Projects
+
+* [BlinkyTape on RaspberryPI](https://github.com/railsagainstignorance/blinkytape)
+
+## Software Projects
+
+* [chromatography](https://github.com/railsagainstignorance/chromatography)
+
+## Advent of Code
+
+(... not all public)
+* [2024](https://github.com/railsagainstignorance/advent-of-code-2024)
