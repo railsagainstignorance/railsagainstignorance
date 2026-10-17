@@ -1,7 +1,4 @@
-## Word Play
-
-* ["this sentence contains"](https://github.com/railsagainstignorance/this-sentence-contains)
-* [nangenmo](https://github.com/railsagainstignorance/nano-nanogenmo)
+| ## Word Play | <ul><li>["this sentence contains"](https://github.com/railsagainstignorance/this-sentence-contains)</li><li>[nangenmo](https://github.com/railsagainstignorance/nano-nanogenmo)</li></ul> |
 
 ## Experiments: Conway's Game of Life
 
