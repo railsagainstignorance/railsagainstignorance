@@ -1,6 +1,6 @@
 ## Current
 
-* [md-display](https://github.com/railsagainstignorance/md-display) ([demo](https://railsagainstignorance.github.io/md-display/?doc=demo%2Fmd-display-demo.md) - going too far with markdown
+* [md-display](https://github.com/railsagainstignorance/md-display) ([demo](https://railsagainstignorance.github.io/md-display/?doc=demo%2Fmd-display-demo.md)) - going too far with markdown
 * [Writing](https://stories.upthebuzzard.com/)
 
 ## From the Before Times
